@@ -1,6 +1,6 @@
 
-# while 1 == 1 :
-  # print('I am stuck in here')
+while 1 == 1 :
+  print('I am stuck in here')
   
 name = ''
 while len(name) == 0:
