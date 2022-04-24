@@ -1,4 +1,4 @@
-# print('Hello world')
+print('Hello world')
 import socket
 connexion_principal = socket.socket(socket.AF_INET,socket.SOCK_STREAM)
 
